@@ -1,4 +1,10 @@
 
+<<<<<<< HEAD
 Alex Soudant:
 - WonderWoman
 - 16 Horsepower
+=======
+Alvin :
+- Bouteille de whisky (à consommer avec modération)
+- Chaussons d'escalade
+>>>>>>> 6386ffe9730ac914d404f0306e8c42de2bffa2a9
